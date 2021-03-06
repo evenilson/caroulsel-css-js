@@ -10,13 +10,13 @@ body {
 
     height: 100vh;
 
-    transition: .3s ease;
-
     border: transparent;
 }
 
 #items-wrapper {
     width: 70vw;
+
+    transition: .2s ease;
 }
 
 #items-wrapper:hover {
