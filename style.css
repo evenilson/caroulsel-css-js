@@ -13,6 +13,16 @@ body {
     border: transparent;
 }
 
+h1 {
+    margin-bottom: 2rem;
+
+    font-family: sans-serif;
+
+    text-align: center;
+
+    color: lightseagreen;
+}
+
 #items-wrapper {
     width: 70vw;
 
